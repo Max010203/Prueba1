@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tve_1_logo_2008.svg/672px-Tve_1_logo_2008.svg.png" group-title="",LA 1
-http://ck2.coolmyvip.club:8880/yj15m405/62001832/2555
-#EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png" group-title="",LA 2
-http://ck2.coolmyvip.club:8880/yj15m405/62001832/29244
 #EXTINF:-1 tvg-id="ETB 1" tvg-name="ETB 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/262px-ETB1_Spain.svg.png" group-title="",ETB 1
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_1596_av-b.m3u8
 #EXTINF:-1 tvg-id="ETB 2" tvg-name="ETB 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/1280px-ETB2_Spain.svg.png" group-title="",ETB 2
